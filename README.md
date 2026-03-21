@@ -10,13 +10,12 @@
 </div>
 
 ### 📊 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=그대의아이디&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldw6019&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![본좌의 활동량](https://github-readme-stats.vercel.app/api?username=그대의아이디&show_icons=true&theme=tokyonight)
+![본좌의 활동량](https://github-readme-stats.vercel.app/api?username=ldw6019&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=그대의아이디&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ldw6019&theme=tokyonight)
 
 ### 📫 Connect with me
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:그대의이메일@gmail.com)
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](그대의블로그주소)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:2293081@hansung.ac.kr)
