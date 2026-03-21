@@ -1,15 +1,22 @@
-## 앙 기무지
-<!--
-**ldw6019/ldw6019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=앙기모취&fontAlign=80&fontAlignY=40&color=gradient)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stacks
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</div>
+
+### 📊 My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=그대의아이디&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![본좌의 활동량](https://github-readme-stats.vercel.app/api?username=그대의아이디&show_icons=true&theme=tokyonight)
+
+### 🔥 Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=그대의아이디&theme=tokyonight)
+
+### 📫 Connect with me
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:그대의이메일@gmail.com)
+[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](그대의블로그주소)
