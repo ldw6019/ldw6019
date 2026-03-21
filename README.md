@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20to%20Space&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Welcome%20to%20Space&fontAlign=50&fontAlignY=35&color=0:72FF82,100:1D2671&animation=twinkling" />
 </p>
+
 
 ---
 
